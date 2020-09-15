@@ -1,1 +1,1 @@
-Learning JaavaScript
+Learning JavaScript
